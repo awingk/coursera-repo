@@ -1,0 +1,84 @@
+"","name","genus","vore","sleep_total"
+"1","Cheetah","Acinonyx","carni",12.1
+"2","Owl monkey","Aotus","omni",17
+"3","Mountain beaver","Aplodontia","herbi",14.4
+"4","Greater short-tailed shrew","Blarina","omni",14.9
+"5","Cow","Bos","herbi",4
+"6","Three-toed sloth","Bradypus","herbi",14.4
+"7","Northern fur seal","Callorhinus","carni",8.7
+"8","Vesper mouse","Calomys",NA,7
+"9","Dog","Canis","carni",10.1
+"10","Roe deer","Capreolus","herbi",3
+"11","Goat","Capri","herbi",5.3
+"12","Guinea pig","Cavis","herbi",9.4
+"13","Grivet","Cercopithecus","omni",10
+"14","Chinchilla","Chinchilla","herbi",12.5
+"15","Star-nosed mole","Condylura","omni",10.3
+"16","African giant pouched rat","Cricetomys","omni",8.3
+"17","Lesser short-tailed shrew","Cryptotis","omni",9.1
+"18","Long-nosed armadillo","Dasypus","carni",17.4
+"19","Tree hyrax","Dendrohyrax","herbi",5.3
+"20","North American Opossum","Didelphis","omni",18
+"21","Asian elephant","Elephas","herbi",3.9
+"22","Big brown bat","Eptesicus","insecti",19.7
+"23","Horse","Equus","herbi",2.9
+"24","Donkey","Equus","herbi",3.1
+"25","European hedgehog","Erinaceus","omni",10.1
+"26","Patas monkey","Erythrocebus","omni",10.9
+"27","Western american chipmunk","Eutamias","herbi",14.9
+"28","Domestic cat","Felis","carni",12.5
+"29","Galago","Galago","omni",9.8
+"30","Giraffe","Giraffa","herbi",1.9
+"31","Pilot whale","Globicephalus","carni",2.7
+"32","Gray seal","Haliochoerus","carni",6.2
+"33","Gray hyrax","Heterohyrax","herbi",6.3
+"34","Human","Homo","omni",8
+"35","Mongoose lemur","Lemur","herbi",9.5
+"36","African elephant","Loxodonta","herbi",3.3
+"37","Thick-tailed opposum","Lutreolina","carni",19.4
+"38","Macaque","Macaca","omni",10.1
+"39","Mongolian gerbil","Meriones","herbi",14.2
+"40","Golden hamster","Mesocricetus","herbi",14.3
+"41","Vole ","Microtus","herbi",12.8
+"42","House mouse","Mus","herbi",12.5
+"43","Little brown bat","Myotis","insecti",19.9
+"44","Round-tailed muskrat","Neofiber","herbi",14.6
+"45","Slow loris","Nyctibeus","carni",11
+"46","Degu","Octodon","herbi",7.7
+"47","Northern grasshopper mouse","Onychomys","carni",14.5
+"48","Rabbit","Oryctolagus","herbi",8.4
+"49","Sheep","Ovis","herbi",3.8
+"50","Chimpanzee","Pan","omni",9.7
+"51","Tiger","Panthera","carni",15.8
+"52","Jaguar","Panthera","carni",10.4
+"53","Lion","Panthera","carni",13.5
+"54","Baboon","Papio","omni",9.4
+"55","Desert hedgehog","Paraechinus",NA,10.3
+"56","Potto","Perodicticus","omni",11
+"57","Deer mouse","Peromyscus",NA,11.5
+"58","Phalanger","Phalanger",NA,13.7
+"59","Caspian seal","Phoca","carni",3.5
+"60","Common porpoise","Phocoena","carni",5.6
+"61","Potoroo","Potorous","herbi",11.1
+"62","Giant armadillo","Priodontes","insecti",18.1
+"63","Rock hyrax","Procavia",NA,5.4
+"64","Laboratory rat","Rattus","herbi",13
+"65","African striped mouse","Rhabdomys","omni",8.7
+"66","Squirrel monkey","Saimiri","omni",9.6
+"67","Eastern american mole","Scalopus","insecti",8.4
+"68","Cotton rat","Sigmodon","herbi",11.3
+"69","Mole rat","Spalax",NA,10.6
+"70","Arctic ground squirrel","Spermophilus","herbi",16.6
+"71","Thirteen-lined ground squirrel","Spermophilus","herbi",13.8
+"72","Golden-mantled ground squirrel","Spermophilus","herbi",15.9
+"73","Musk shrew","Suncus",NA,12.8
+"74","Pig","Sus","omni",9.1
+"75","Short-nosed echidna","Tachyglossus","insecti",8.6
+"76","Eastern american chipmunk","Tamias","herbi",15.8
+"77","Brazilian tapir","Tapirus","herbi",4.4
+"78","Tenrec","Tenrec","omni",15.6
+"79","Tree shrew","Tupaia","omni",8.9
+"80","Bottle-nosed dolphin","Tursiops","carni",5.2
+"81","Genet","Genetta","carni",6.3
+"82","Arctic fox","Vulpes","carni",12.5
+"83","Red fox","Vulpes","carni",9.8
