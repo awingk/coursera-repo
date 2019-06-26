@@ -1,0 +1,138 @@
+Data Analytics
+===============
+
+Previous Data(What happened in the Past) 					 <- Descriptive Analytics
+Future(What's going to happen?)		 						 <- Predictive Analytics
+What Should I do to make best use of what's going to happen  <- Prescriptive Analytics
+
+Phases of Data Analytics
+=========================
+
+Software Cycle									Data Analytics
+---------------									---------------
+1. Requirement Gathering						Problem Statement (SMART- Specific, Measurable, Attainable, Relevant, Time-bound)
+2. Plan & Design								Solution Design/Identification (Predictive Sales, Logistic Regression, Cluster Analysis etc.)
+3. Development									Solution Implementation (Data Exploration, Data Preparation, Data Partitioning, Modeling)
+4. Testing(QC)									(Partitioning - Training Dataset, Testing Dataset; Solution Validation)
+5. Deployment									Solution Deployment
+6. Maintenance									Solution Monitoring
+
+Statistics is a branch of mathematics dealing with data collection, organization, analysis, interpretation and presentation.
+
+Dataset A = {17, 4, 33,2, 51, 23, 3, 41, 18, 2, 4, 2}
+
+Measures of Central Tendency
+=============================
+1. Mean 	= 16.66667
+2. Median 	= (4 + 17) / 2 = 10.5		(The median is the value separating the higher half from the lower half of a data sample.)
+3. Mode		= 2						(The mode of a set of data values is the value that appears most often.)
+
+Measure of Range
+=================
+1. Min
+2. Max
+3. Range
+4. Variance
+
+
+Chebyshev's theorem: The proportion of data between k std. deviation is at least (1- (1/k^2)).
+(Applicable on non-skewed data.)
+
+Empirical Rule: 68 - 95 - 99.7%
+(Normal Distribution)
+
+-> 68 %  lies b/w one Std. Dev
+-> 95%   lies b/w 2 * Std. Dev
+-> 99.7% lies b/w 3 * Std. Dev
+
+Boxplot
+========
+
+Min			= 1
+Q1			= 40
+Median		= 142
+Q3			= 281
+Max			= 977
+
+Measures of Shape
+==================
+
+Bell - shaped, Right Skewed, Left Skewed
+
+skew - 0 : Normal; > 1 : Right Skewed; < 0 : Left Skewed or Negative Skewed
+
+Mesokurtic, Leptokurtic, Platykurtic
+
+When a random variable has only 2 possible outcome we call it binomial variable.
+
+- Binomial, Poisson, Negative Binomial
+
+Hypothesis Testing Class Workbook.xlsx
+=======================================
+
+H0: Team Engagement score is 85%
+Ha: Team Engagement is lower than 85%
+p-value: P(Random chance Variation)
+
+If p-value is low, reject H0
+If p-value is high, accept H0
+
+Significance Level: alpha
+
+p-value: P(Observing outcomes as extreme or more extreme than observed value due to random chance.)
+
+Day 2
+======
+R Programming
+==============
+
+
+Day 3
+======
+GroupWise Operations:
+
+> tapply(), aggregate()
+
+Data Visualization
+===================
+
+
+Day 4
+======
+remove outliers from dependent vars.
+
+
+Day 5
+======
+Decision Tress is for prediction.
+Tools: Orange Canvas, Creates decision tress for you automatically.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
